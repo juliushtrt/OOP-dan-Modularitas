@@ -5,14 +5,13 @@
 #### Langkah Eksekusi Program
 1. Jalankan Program
    Ketikkan perintah berikut di terminal atau editor untuk memulai program:
-   python nama_file_program.py
+   ![image](https://github.com/user-attachments/assets/27f3010f-9b04-41fc-bb55-9d259099ca8d)
+
 
 3. Menu Utama
-   Saat program dijalankan, pengguna melihat menu utama dengan opsi berikut:
-   Menu:
-1. Tambah Tugas
-2. Tampilkan Tugas
-3. Keluar
+Saat program dijalankan, pengguna melihat menu utama dengan opsi berikut:
+![image](https://github.com/user-attachments/assets/a2d3728e-d416-47bc-affc-274325302439)
+
 
 3. Menambahkan Tugas Baru
 - Pilih opsi 1 untuk menambahkan tugas.
@@ -31,23 +30,22 @@ Berikut adalah gambaran demo eksekusi program:
 
 ###### Input dan Output Program
 - Input 1: Menambahkan tugas baru
-Pilih menu: 1
-Masukkan tugas baru: Belajar Python
+![image](https://github.com/user-attachments/assets/1f34ecd3-cd5e-4ca7-b1ba-93e30c2d4983)
+
 - Output
-Tugas berhasil ditambahkan.
+![image](https://github.com/user-attachments/assets/3c2dd2ad-76be-417f-9f36-06a83adab4da)
+
 - Input 2: Menampilkan daftar tugas.
-Pilih menu: 2
+![image](https://github.com/user-attachments/assets/26306960-17f0-4890-a064-bc291ad95985)
+
 - Output:
-Daftar Tugas:
-+----+-----------------+
-| No | Tugas           |
-+----+-----------------+
-|  1 | Belajar Python  |
-+----+-----------------+
+![image](https://github.com/user-attachments/assets/045c7506-108c-4cf0-a27d-77eb8860127a)
+
 - Input 3: Keluar dari program.
-Pilih menu: 3
+![image](https://github.com/user-attachments/assets/a34f9fa6-4992-4d52-9af2-9dabe7c0fb4d)
+
 - Output:
-Terima kasih telah menggunakan aplikasi ini.
+![image](https://github.com/user-attachments/assets/89d6f510-0b82-4ed1-80e0-a0e519927cea)
 
 #### Documentasi Video
 Rekomendasi langkah dalam documentasi video:
