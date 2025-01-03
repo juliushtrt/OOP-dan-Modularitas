@@ -60,4 +60,4 @@ Rekomendasi langkah dalam documentasi video:
 1. Tampilkan kode program secara singkat.
 2. Tunjukkan proses eksekusi program dengan memasukan tugas, menampilkan daftar tugas, dan keluar dari program.
 3. Akhiri dengan tautan video documentasi berikut:
-   Video Dokumentasi: https://youtu.be/I6YR2ucXVko?si=KDtwP1ji1zTVZjul
+   https://youtu.be/I6YR2ucXVko?si=KDtwP1ji1zTVZjul
