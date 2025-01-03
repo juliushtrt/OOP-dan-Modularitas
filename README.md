@@ -15,18 +15,16 @@
 3. Keluar
 
 3. Menambahkan Tugas Baru
-
-   - Pilih opsi 1 untuk menambahkan tugas.
-   - Ketik tugas yang ingin ditambahkan.
-   - Tugas akan disimpan dan program akan menampilkan pesan berhasil.
+- Pilih opsi 1 untuk menambahkan tugas.
+- Ketik tugas yang ingin ditambahkan.
+- Tugas akan disimpan dan program akan menampilkan pesan berhasil.
 
 4. Menampilkan Daftar Tugas
-   - Pilih opsi 2 untuk menampilkan semua tugas yang telah ditambahkan.
-   - Daftar tugas akan ditampilkan dalam format tabel.
+- Pilih opsi 2 untuk menampilkan semua tugas yang telah ditambahkan.
+- Daftar tugas akan ditampilkan dalam format tabel.
 
 5. Keluar dari Program
-
-   - Pilih opsi 3 untuk keluar dari program.
+- Pilih opsi 3 untuk keluar dari program.
 
 #### Demo Eksekusi Program
 Berikut adalah gambaran demo eksekusi program:
@@ -56,4 +54,4 @@ Rekomendasi langkah dalam documentasi video:
 1. Tampilkan kode program secara singkat.
 2. Tunjukkan proses eksekusi program dengan memasukan tugas, menampilkan daftar tugas, dan keluar dari program.
 3. Akhiri dengan tautan video documentasi berikut:
-   Video Dokumentasi: https://youtu.be/I6YR2ucXVko?si=KDtwP1ji1zTVZjul
+Video Dokumentasi: https://youtu.be/I6YR2ucXVko?si=KDtwP1ji1zTVZjul
