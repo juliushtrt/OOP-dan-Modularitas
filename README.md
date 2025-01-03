@@ -2,7 +2,7 @@
 ### NIM     : 312410429
 ### Kelas   : TI 24 A3
 
-#### Langkah Eksekusi Program
+## Langkah Eksekusi Program
 1. Jalankan Program
    Ketikkan perintah berikut di terminal atau editor untuk memulai program:
    
@@ -27,7 +27,7 @@
 5. Keluar dari Program
    - Pilih opsi 3 untuk keluar dari program.
 
-#### Demo Eksekusi Program
+## Demo Eksekusi Program
 Berikut adalah gambaran demo eksekusi program:
 
 ###### Input dan Output Program
@@ -55,7 +55,7 @@ Berikut adalah gambaran demo eksekusi program:
 
   ![image](https://github.com/user-attachments/assets/89d6f510-0b82-4ed1-80e0-a0e519927cea)
 
-#### Documentasi Video
+## Documentasi Video
 Rekomendasi langkah dalam documentasi video:
 1. Tampilkan kode program secara singkat.
 2. Tunjukkan proses eksekusi program dengan memasukan tugas, menampilkan daftar tugas, dan keluar dari program.
