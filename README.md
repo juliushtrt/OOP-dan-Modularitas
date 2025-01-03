@@ -1,6 +1,7 @@
-### Nama    : Julius Hutabarat
-### NIM     : 312410429
-### Kelas   : TI 24 A3
+##### Nama    : Julius Hutabarat
+##### NIM     : 312410429
+##### Kelas   : TI 24 A3
+
 
 ## Langkah Eksekusi Program
 1. Jalankan Program
